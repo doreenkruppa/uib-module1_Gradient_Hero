@@ -1,7 +1,10 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+  background-image: linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      hsla(355, 98%, 49%, 0.6)
+    ),
     url(https://thepointmag.com/wp-content/uploads/2020/10/Ingeborg_Bachmann-768x523.jpg);
   background-size: cover;
   background-position: center;
